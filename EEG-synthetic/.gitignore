@@ -1,0 +1,11 @@
+.venv/
+data/
+results/
+logs/
+*.pth
+*.png
+trained_models/
+*.csv
+trained_vae/
+trained_ae/
+generated_samples/
